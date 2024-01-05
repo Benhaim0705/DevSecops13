@@ -1,0 +1,52 @@
+
+{
+  "authors": [
+    {
+      "author_name": "J.D. Salinger",
+      "author_birth_year": 1919
+    },
+    {
+      "author_name": "Harper Lee",
+      "author_birth_year": 1926
+    },
+    {
+      "author_name": "George Orwell",
+      "author_birth_year": 1903
+    },
+    {
+      "author_name": "Jane Austen",
+      "author_birth_year": 1775
+    },
+    {
+      "author_name": "F. Scott Fitzgerald",
+      "author_birth_year": 1896
+    }
+  ],
+  "books": [
+    {
+      "book_name": "The Catcher in the Rye",
+      "publication_year": 1951,
+      "author_name": "J.D. Salinger"
+    },
+    {
+      "book_name": "To Kill a Mockingbird",
+      "publication_year": 1960,
+      "author_name": "Harper Lee"
+    },
+    {
+      "book_name": "1984",
+      "publication_year": 1949,
+      "author_name": "George Orwell"
+    },
+    {
+      "book_name": "Pride and Prejudice",
+      "publication_year": 1813,
+      "author_name": "Jane Austen"
+    },
+    {
+      "book_name": "The Great Gatsby",
+      "publication_year": 1925,
+      "author_name": "F. Scott Fitzgerald"
+    }
+  ]
+}
