@@ -5,7 +5,8 @@ pipeline {
             steps {
                 echo 'Hello World!!!'
             }
-                  stage('cat') {
+        }
+        stage('cat') {
             when {
                 branch 'dev*'
             }
@@ -15,6 +16,6 @@ pipeline {
                 '''
             }
         }
-      }
     }
 }
+
